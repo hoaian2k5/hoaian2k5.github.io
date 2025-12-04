@@ -1,0 +1,136 @@
+body {
+    background: #d3dce6;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.window {
+    width: 520px;
+    border: 1px solid #7a7a7a;
+    background: #efefef;
+    margin: 40px auto;
+    box-shadow: 0 0 5px #0004;
+}
+
+.title-bar {
+    background: #c2d4e8;
+    padding: 6px 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #777;
+}
+
+.close-btn {
+    background: #d9534f;
+    border: none;
+    color: white;
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.content {
+    padding: 20px;
+}
+
+.label {
+    margin: 4px 0;
+}
+
+.input-box {
+    width: 100%;
+    height: 28px;
+    font-size: 16px;
+    margin-top: 10px;
+    padding: 4px 6px;
+    border: 1px solid #999;
+}
+
+.buttons {
+    margin-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.btn {
+    width: 70px;
+    padding: 5px 0;
+    border: 1px solid #555;
+    background: #f8f8f8;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #e6e6e6;
+}
+body {
+    background: #d3dce6;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.window {
+    width: 520px;
+    border: 1px solid #7a7a7a;
+    background: #efefef;
+    margin: 40px auto;
+    box-shadow: 0 0 5px #0004;
+}
+
+.title-bar {
+    background: #c2d4e8;
+    padding: 6px 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #777;
+}
+
+.close-btn {
+    background: #d9534f;
+    border: none;
+    color: white;
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.content {
+    padding: 20px;
+}
+
+.label {
+    margin: 4px 0;
+}
+
+.input-box {
+    width: 100%;
+    height: 28px;
+    font-size: 16px;
+    margin-top: 10px;
+    padding: 4px 6px;
+    border: 1px solid #999;
+}
+
+.buttons {
+    margin-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.btn {
+    width: 70px;
+    padding: 5px 0;
+    border: 1px solid #555;
+    background: #f8f8f8;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #e6e6e6;
+}

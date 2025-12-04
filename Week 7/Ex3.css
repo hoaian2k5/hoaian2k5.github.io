@@ -6,7 +6,7 @@ body {
 
 /* HEADER */
 #header {
-  background: url(header.jpg);
+  background: url(../Images/header.jpg);
   height: 181px;
   width: 900px;
   margin: 0 auto;
@@ -85,7 +85,7 @@ body {
 
 /* CENTER CONTENT */
 #center_content {
-  background: url(center_bg.gif) repeat-y;
+  background: url(../Images/center_bg.gif) repeat-y;
   width: 900px;
   margin: 0 auto;
   overflow: auto;
@@ -173,7 +173,7 @@ body {
 
 .menu_right {
   list-style-type: none;
-  list-style-image: url("left_menu_bullet.gif");
+  list-style-image: url("../Images/left_menu_bullet.gif");
   padding-left: 20px;
 }
 
@@ -185,7 +185,7 @@ body {
 
 /* FOOTER */
 #footer {
-  background: url(footer_bg.gif) no-repeat bottom;
+  background: url(../Images/footer_bg.gif) no-repeat bottom;
   height: 100px;
   border-top: dashed 1px #ccc;
   width: 900px;
